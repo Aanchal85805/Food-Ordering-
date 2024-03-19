@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    
+    
+    box-sizing: border-box;
+}
+
+.menu-item{
+   
+   height:fit-content;
+   
+   
+}
+.img .imges {
+    width:150px
+    
+
+}
